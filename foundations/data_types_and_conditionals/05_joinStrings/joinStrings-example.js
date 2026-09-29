@@ -14,3 +14,5 @@ module.exports = {
   firstName,
   lastName
 }
+
+// Output should be: Hello! My name is Carlos Stevenson and I am 18 years old.
